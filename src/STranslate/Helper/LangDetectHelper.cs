@@ -44,8 +44,9 @@ public class LangDetectHelper
     /// <returns></returns>
     private static LangEnum LocalLangDetect(string content, double rate)
     {
-        var ret = StringUtil.AutomaticLanguageRecognition(content, rate);
-        return ret.Item1;
+        return LocalDetectUtil.LocalDetectLang(content);
+        // var ret = StringUtil.AutomaticLanguageRecognition(content, rate);
+        // return ret.Item1;
     }
 
     /// <summary>
