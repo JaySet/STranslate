@@ -68,16 +68,6 @@
 
 <a href="https://jb.gg/OpenSourceSupport"><img src="./img/jb_beam.svg" /></a>
 
-## 打赏
-
-觉得不错的话可以请作者喝杯阔落
-
-> 感谢打赏的朋友 [赞赏列表](Sponsor.md)
-
-| 微信 | 支付宝 |
-| :--: | :--: |
-|![wehcatpay](./img/wechatpay.jpg) | ![alipay](./img/alipay.jpg) |
-
 ## 作者
 
 **STranslate** © [zggsong](https://github.com/zggsong), Released under the [MIT](https://github.com/ZGGSONG/STranslate/blob/main/LICENSE) License.<br>
