@@ -37,7 +37,14 @@
 
 ## 使用
 
-[Document](https://stranslate.zggsong.com)
+[Document](https://stranslate.zggsong.com)<br>
+快捷键操作：通过设定快捷键，用户可以快速呼出翻译界面或进行文字翻译。<br>
+划词翻译：选中文字后，使用快捷键即可直接翻译。<br>
+截图翻译：支持通过截图自动识别并翻译文本。<br>
+离线OCR功能：基于 PaddleOCR 技术，即使在无网络环境下也能进行文字识别。<br>
+实时划词翻译：在阅读时可实现即时翻译。<br>
+多种翻译源支持：Deepl(免费版本)、Google(免费版本)、OpenAI、Gemini、百度翻译、阿里翻译、腾讯翻译、小牛翻译、微软翻译、有道翻译、彩云小译、火山翻译、智谱AI<br>
+二维码识别：能够识别屏幕上的二维码。<br>
 
 ## 讨论
 
