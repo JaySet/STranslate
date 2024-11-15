@@ -54,7 +54,6 @@
 
 <img src="./img/qq.jpeg" height=200 />
 
-
 ## 感谢
 
 - 特别鸣谢 [zu1k](https://github.com/zu1k)
@@ -66,14 +65,9 @@
 - 感谢 JetBrains 提供开源项目免费License
 - 感谢 [发文分享](Sponsor.md#分享支持)
 
-<a href="https://jb.gg/OpenSourceSupport"><img src="./img/jb_beam.svg" /></a>
-
 ## 作者
 
 **STranslate** © [zggsong](https://github.com/zggsong), Released under the [MIT](https://github.com/ZGGSONG/STranslate/blob/main/LICENSE) License.<br>
 
 > Website [Blog](https://www.zggsong.com) · GitHub [@zggsong](https://github.com/zggsong)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZGGSONG/STranslate&type=Date)](https://star-history.com/#ZGGSONG/STranslate&Date)
